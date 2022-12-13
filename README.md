@@ -7,7 +7,7 @@ Development of Bash text utilities: cat, grep.
    1.2. [Part 2](#part-2-working-with-grep-utility)  
    1.3. [Part 3](#part-3-bonus-implementation-of-some-grep-utility-flags)
 
-## Chapter III
+## Chapter I
 
 - The programs must be developed in C language of C11 standard using gcc compiler.
 - The program code of the cat and grep must be located on the develop branch in the src/cat/ and src/grep/ folders, respectively  
